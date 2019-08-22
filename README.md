@@ -1,2 +1,2 @@
 # EuroKilos
-a simple app to manage an small collective funds 
+a simple application to manage an small collective funds 
